@@ -1,1 +1,1 @@
-**Machine-Learning-Loan-Status-Prediction**
+**Loan-Status-Prediction-Using-Machine-Learning**
